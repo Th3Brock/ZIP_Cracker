@@ -9,9 +9,9 @@ pip3 install tqdm
 ## Usage:
 
 ```
-python3 zip.py [ZIP] [WORDLIST]
+python3 zip2.py [ZIP] [WORDLIST]
 ```
 
 ```
-python zip2.py -p [WORDLIST] -f [ZIP]
+python zip.py -p [WORDLIST] -f [ZIP]
 ```
