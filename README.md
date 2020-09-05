@@ -9,5 +9,5 @@ pip3 install tqdm
 ## Usage:
 
 ```
-python3 zip2.py [ZIP] [WORDLIST]
+python3 zip_cracker.py [ZIP] [WORDLIST]
 ```
